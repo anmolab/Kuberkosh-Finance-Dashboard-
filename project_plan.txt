@@ -1,0 +1,4 @@
+Frontend
+material ui, ts, vite. recharts, redux, rtk query,
+heroicons, react router
+
